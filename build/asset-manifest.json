@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.adf75225.css",
-    "main.js": "/static/js/main.270566b4.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/hotelhunt.png": "/static/media/hotelhunt.62102eb53cbb96ff0892.png",
-    "static/media/rickandmorty.png": "/static/media/rickandmorty.61fc56af767df9bb6370.png",
-    "static/media/videogames.jpg": "/static/media/videogames.76c16e63af980a6ab0ca.jpg",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-sa.png": "/static/media/logo-sa.44d334e352fe6879b50e.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.adf75225.css.map": "/static/css/main.adf75225.css.map",
-    "main.270566b4.js.map": "/static/js/main.270566b4.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/MyPortfolio/static/css/main.e58e144d.css",
+    "main.js": "/MyPortfolio/static/js/main.3169a798.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hotelhunt.png": "/MyPortfolio/static/media/hotelhunt.62102eb53cbb96ff0892.png",
+    "static/media/rickandmorty.png": "/MyPortfolio/static/media/rickandmorty.61fc56af767df9bb6370.png",
+    "static/media/videogames.jpg": "/MyPortfolio/static/media/videogames.76c16e63af980a6ab0ca.jpg",
+    "static/media/helvetica-neu.ttf": "/MyPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/MyPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-sa.png": "/MyPortfolio/static/media/logo-sa.44d334e352fe6879b50e.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/MyPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/MyPortfolio/index.html",
+    "main.e58e144d.css.map": "/MyPortfolio/static/css/main.e58e144d.css.map",
+    "main.3169a798.js.map": "/MyPortfolio/static/js/main.3169a798.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adf75225.css",
-    "static/js/main.270566b4.js"
+    "static/css/main.e58e144d.css",
+    "static/js/main.3169a798.js"
   ]
 }
