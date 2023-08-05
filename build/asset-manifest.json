@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.adf75225.css",
-    "main.js": "/static/js/main.cf902752.js",
-    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "main.js": "/static/js/main.270566b4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/hotelhunt.png": "/static/media/hotelhunt.62102eb53cbb96ff0892.png",
     "static/media/rickandmorty.png": "/static/media/rickandmorty.61fc56af767df9bb6370.png",
     "static/media/videogames.jpg": "/static/media/videogames.76c16e63af980a6ab0ca.jpg",
@@ -12,11 +12,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
     "main.adf75225.css.map": "/static/css/main.adf75225.css.map",
-    "main.cf902752.js.map": "/static/js/main.cf902752.js.map",
-    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+    "main.270566b4.js.map": "/static/js/main.270566b4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adf75225.css",
-    "static/js/main.cf902752.js"
+    "static/js/main.270566b4.js"
   ]
 }
