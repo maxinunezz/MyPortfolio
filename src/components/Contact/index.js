@@ -8,6 +8,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import rickandmorty from '../../assets/images/rickandmorty.png'
 import videogames from '../../assets/images/videogames.jpg'
 import hotelhunt from '../../assets/images/hotelhunt.png'
+import todolist from '../../assets/images/todolistapp.png'
 
 const Contact = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
@@ -22,7 +23,7 @@ const Contact = () => {
     }
   }, [])
 
-  const emailToCopy = 'Maxicbapl@gmail.com'
+  const emailToCopy = 'Patricionunez.dev@gmail.com'
 
   const handleCopyEmail = () => {
     const textarea = document.createElement('textarea')
@@ -104,6 +105,13 @@ const Contact = () => {
             alt="hotelhunt project"
             onClick={() =>
               handleImageClick('https://github.com/maxinunezz/HotelHunt')
+            }
+          />
+          <img
+            src={todolist}
+            alt="ToDoList project"
+            onClick={() =>
+              handleImageClick('https://to-do-list-patricionunez.vercel.app/')
             }
           />
         </div>
