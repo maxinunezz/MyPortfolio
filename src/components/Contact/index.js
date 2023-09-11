@@ -5,7 +5,7 @@ import './index.scss'
 import Layout from '../Layout'
 import { faCopy } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import rickandmorty from '../../assets/images/rickandmorty.png'
+import calcu from '../../assets/images/calcu.png'
 import videogames from '../../assets/images/videogames.jpg'
 import hotelhunt from '../../assets/images/hotelhunt.png'
 import todolist from '../../assets/images/todolistapp.png'
@@ -85,10 +85,10 @@ const Contact = () => {
         </div>
         <div className="image-container">
           <img
-            src={rickandmorty}
-            alt="RickandMorty project"
+            src={calcu}
+            alt="Calculator project"
             onClick={() =>
-              handleImageClick('https://github.com/maxinunezz/rick_y_morty')
+              handleImageClick('https://calculator-patricionunez.vercel.app/')
             }
           />
           <img
